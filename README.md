@@ -5,7 +5,7 @@ Dutch (nl) Translation for Project OutFox / Nederlandse (NL) vertaling voor Proj
 
 ### EN
 
-Currently I update this translation by myself, but if you want to help, or spot any mistakes you talk with me in the OutFox Discord server. Invite link is available on their website.
+Currently, I update this translation by myself, but if you want to help, or spot any mistakes you talk with me in the OutFox Discord server. Invite link is available on their website.
 
 ### NL
 
