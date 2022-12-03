@@ -55,9 +55,9 @@ but in that case, replace them all at once, to keep translations consistent.
 | Features           | Kenmerken            |                         | Opties / Eigenschappen?                                                    |
 | Real               | Echt                 | Realistisch / Werkelijk | straight up frfr no cap                                                    |
 | Info / Information | Info / Informatie    |                         |                                                                            |
-|                    |                      |                         |                                                                            |
-|                    |                      |                         |                                                                            |
-|                    |                      |                         |                                                                            |
+| Skip               | Overslaan            |                         |                                                                            |
+| Forfeit            | Opgeven              |                         |                                                                            |
+| Restart            | Herstart             |                         |                                                                            |
 |                    |                      |                         |                                                                            |
 |                    |                      |                         |                                                                            |
 |                    |                      |                         |                                                                            |
