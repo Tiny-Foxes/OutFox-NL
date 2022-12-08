@@ -58,8 +58,23 @@ but in that case, replace them all at once, to keep translations consistent.
 | Skip               | Overslaan            |                         |                                                                            |
 | Forfeit            | Opgeven              |                         |                                                                            |
 | Restart            | Herstart             |                         |                                                                            |
+| Flawless           | Foutloos             |                         |                                                                            |
+| Just Perfect       | Gewoon Perfect       |                         |                                                                            |
+| Perfect            | Perfect              |                         |                                                                            |
+| Wicked             | Geweldig             |                         |                                                                            |
+| Fantastic          | Fantastisch          |                         |                                                                            |
+| Excellent          | Excellent            |                         |                                                                            |
+| Great              | Erg Goed             |                         |                                                                            |
+| PGreat             | Heel Erg Goed        |                         |                                                                            |
+| Decent             | Niet Slecht          |                         |                                                                            |
+| Way Off            | Kan Beter            |                         |                                                                            |
+| Bad                | Slecht               |                         |                                                                            |
+| Superb             | Super                |                         |                                                                            |
+| Dire               | Verschrikkelijk      |                         |                                                                            |
+| Marvelous          | Subliem              |                         |                                                                            |
+| Boo                | Boe                  |                         |                                                                            |
+| Bad / Poor         | Slecht / Jammer      |                         |                                                                            |
 |                    |                      |                         |                                                                            |
-|                    |                      |                         |                                                                            |
-|                    |                      |                         |                                                                            |
+
 
 
